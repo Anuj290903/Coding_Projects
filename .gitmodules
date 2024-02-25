@@ -1,3 +1,6 @@
 [submodule "Browser_Extension"]
 	path = Browser_Extension
 	url = https://github.com/Anuj290903/Browser_Extension.git
+[submodule "Data_Privacy_Vault"]
+	path = Data_Privacy_Vault
+	url = https://github.com/Anuj290903/Data_Privacy_Vault.git
